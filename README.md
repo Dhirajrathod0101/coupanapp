@@ -38,7 +38,7 @@ The system will fetch and display a random coupon code.
 
 If an issue occurs, an error message will appear.
 
-Video_link_project(DEMO):![Video](https://drive.google.com/file/d/1eGHLHzvLxrlT5TkDThW78iVyidWTuRnW/view?usp=sharing)
+Video_link_project(DEMO):(https://drive.google.com/file/d/1eGHLHzvLxrlT5TkDThW78iVyidWTuRnW/view?usp=sharing)
 
 
 Screenshots
